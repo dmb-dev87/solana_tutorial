@@ -1,4 +1,4 @@
-# solona-tutorial
+# solana-tutorial
 
 # SendSOL and SendNFT
 Send a Transaction and Mint An NFT on Solana by using JavaScript
