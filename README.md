@@ -1,7 +1,6 @@
 # solona-tutorial
 
-### SendSOL and SendNFT
-
+# SendSOL and SendNFT
 Send a Transaction and Mint An NFT on Solana by using JavaScript
 
 - Project
